@@ -8,6 +8,15 @@
 
 []()
 
+我是 JavaPub，很高兴你能关注到我。
+
+
+我是一名互联网技术人员，希望在开源的互联网生态中也能贡献自己的一份力量。我在维护一个自媒体账号 JavaPub（公众号也是同名），目前在多个社区同步发文，知乎、CSDN、思否、开源中国、简书、掘金、博客园。
+
+
+善于使用 `Ctrl + f`
+
+
 <!--
 **Rodert/Rodert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
