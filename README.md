@@ -10,6 +10,8 @@
 
 在线阅读地址：https://rodert.github.io/JavaPub-Interview/
 
+国内在线阅读地址：https://rodert.gitee.io/javapub-interview/
+
 我是 JavaPub，很高兴你能关注到我。
 
 
