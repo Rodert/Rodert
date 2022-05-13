@@ -20,8 +20,19 @@
 
 我是一名互联网技术人员，希望在开源的互联网生态中也能贡献自己的一份力量。我在维护一个自媒体账号 JavaPub（公众号也是同名），目前在多个社区同步发文，知乎、CSDN、思否、开源中国、简书、掘金、博客园。
 
-
 善于使用 `Ctrl + f`
+
+
+
+|  收录   | 地址  |
+|  ----  | ----  |
+| 谷歌收录  | https://www.google.com.hk/search?q=javapub |
+| 百度收录  | https://www.baidu.com/s?wd=javapub |
+| 必应收录  | https://www4.bing.com/search?q=javapub |
+| 360收录  | https://www.so.com/s?q=javapub |
+| 搜狗收录  | https://www.sogou.com/web?query=javapub |
+
+
 
 
 <!--
