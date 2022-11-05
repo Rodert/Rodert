@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-[个人站点](http://javapub.net.cn/)
-
-[微信公众号：JavaPub](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA)
-
-[知乎：JavaPub](https://www.zhihu.com/people/zhui-ma-7-49)
-
-[GitHub：JavaPub](https://github.com/Rodert/)
+[个人站点](http://javapub.net.cn/) | [微信公众号：JavaPub](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA) | [知乎：JavaPub](https://www.zhihu.com/people/zhui-ma-7-49) | [GitHub：JavaPub](https://github.com/Rodert/)
 
 
 []()
