@@ -34,7 +34,9 @@
 
 ---
 
-我的微信公众号：**JavaPub** ，可以回复 1024 ，有惊喜。![](https://img-blog.csdnimg.cn/20210218233243678.jpg#pic_center)
+我的微信公众号：**JavaPub** ，可以回复 1024 ，有惊喜。
+
+![](https://img-blog.csdnimg.cn/20210218233243678.jpg#pic_center)
 
 
 
