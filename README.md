@@ -36,12 +36,8 @@
 
 我的微信公众号：**JavaPub** ，可以回复 1024 ，有惊喜。
 
-![](https://img-blog.csdnimg.cn/20210218233243678.jpg#pic_center)
-
-
 
 ## 我的故事
-
 
 
 [如果对我的故事感兴趣，可以点击这里!](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2447168057551683586#wechat_redirect)
