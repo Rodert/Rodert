@@ -3,8 +3,6 @@
 [个人站点](http://javapub.net.cn/) | [微信公众号：JavaPub](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA) | [知乎：JavaPub](https://www.zhihu.com/people/zhui-ma-7-49) | [GitHub：JavaPub](https://github.com/Rodert/)
 
 
-[]()
-
 在线阅读地址：https://rodert.github.io/JavaPub-Interview/
 
 国内在线阅读地址：https://rodert.gitee.io/javapub-interview/
@@ -13,9 +11,6 @@
 
 
 我是一名互联网技术人员，希望在开源的互联网生态中也能贡献自己的一份力量。我在维护一个自媒体账号 JavaPub（公众号也是同名），目前在多个社区同步发文，知乎、CSDN、思否、开源中国、简书、掘金、博客园。
-
-善于使用 `Ctrl + f`
-
 
 
 |  收录   | 地址  |
