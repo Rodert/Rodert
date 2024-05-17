@@ -38,6 +38,10 @@
 
 
 
+## 编程大礼包
+
+[编程大礼包下载](https://kazjsfecs3y.feishu.cn/wiki/VgaMwdkV6i6vdKk9OMhc5ZYVnvc)
+
 <!--
 **Rodert/Rodert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
