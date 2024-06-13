@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/Rodert/count.svg)
+
 
 
 [linktr](https://linktr.ee/javapub) | [微信公众号](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA) | [知乎](https://www.zhihu.com/people/zhui-ma-7-49) | [GitHub](https://github.com/Rodert/) | [Gitee](https://gitee.com/rodert) | [掘金](https://juejin.cn/user/958429872260328) | [CSDN](https://javapub.blog.csdn.net/?type=blog) | [腾讯云开发者社区](https://cloud.tencent.com/developer/user/2686511) | [哔哩哔哩](https://space.bilibili.com/404747369) | [阿里云栖社区](https://developer.aliyun.com/profile/e6np5bdeh6snm)
@@ -71,7 +73,6 @@ Here are some ideas to get you started:
 ![JavaPub GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodert&show_icons=true&theme=tokyonight)
 
 
-![Visitor Count](https://profile-counter.glitch.me/Rodert/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodert&layout=compact&theme=tokyonight)
 
