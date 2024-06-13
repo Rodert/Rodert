@@ -75,4 +75,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodert&layout=compact&theme=tokyonight)
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Rodert/JavaPub&type=Date)](https://star-history.com/#Rodert/JavaPub&Date)
