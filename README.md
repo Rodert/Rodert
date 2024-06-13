@@ -77,4 +77,8 @@ Here are some ideas to get you started:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Rodert/JavaPub&type=Date)](https://star-history.com/#Rodert/JavaPub&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Rodert/JavaPub&type=Date)
+
+
+
+
