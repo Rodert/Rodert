@@ -9,7 +9,7 @@
 ---
 
 
-点击在线阅读JavaPub官方网站： https://javapub.net.cn/
+点击在线阅读JavaPub官方网站： http://javapub.net.cn/
 
 
 旧版在线阅读地址：https://rodert.github.io/JavaPub-Interview/
