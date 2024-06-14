@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+点击在线阅读JavaPub官方网站： [http://javapub.net.cn/](http://javapub.net.cn/)
+
+
+
 ![Visitor Count](https://profile-counter.glitch.me/Rodert/count.svg)
 
 
@@ -20,8 +26,6 @@
 
 ---
 
-
-点击在线阅读JavaPub官方网站： http://javapub.net.cn/
 
 
 旧版在线阅读地址：https://rodert.github.io/JavaPub-Interview/
