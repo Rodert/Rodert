@@ -78,19 +78,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
 
 
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Rodert/JavaPub&type=Date)
+-->
 
 
 
+---
+
+
+
+## 我朋友和我的公众号
 
 ![](https://javapub-common-oss.oss-cn-beijing.aliyuncs.com/javapub/static/fengmiansheji.png)
 
