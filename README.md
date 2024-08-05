@@ -55,6 +55,15 @@
 [编程大礼包下载](https://kazjsfecs3y.feishu.cn/wiki/VgaMwdkV6i6vdKk9OMhc5ZYVnvc)
 
 
+## 保持联系
+
+我总是对探索新技术和合作开展有趣的项目感到兴奋。如果您想联系或合作，请随时联系我：
+
+- [WeChat](https://kazjsfecs3y.feishu.cn/wiki/BRMxwzLpgizi62k20fwcCzPHn1e)
+
+- [Send me email](mailto:iswangshiyu@foxmail.com)
+
+
 
 <!--
 **Rodert/Rodert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
