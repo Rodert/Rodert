@@ -26,7 +26,6 @@
 ---
 
 
-
 [linktr](https://linktr.ee/javapub) | [微信公众号](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA) | [知乎](https://www.zhihu.com/people/zhui-ma-7-49) | [GitHub](https://github.com/Rodert/) | [Gitee](https://gitee.com/rodert) | [掘金](https://juejin.cn/user/958429872260328) | [CSDN](https://javapub.blog.csdn.net/?type=blog) | [腾讯云开发者社区](https://cloud.tencent.com/developer/user/2686511) | [哔哩哔哩](https://space.bilibili.com/404747369) | [阿里云栖社区](https://developer.aliyun.com/profile/e6np5bdeh6snm) | [西瓜视频](https://www.ixigua.com/home/111425969015) | [抖音](https://www.douyin.com/search/JavaPub) 
 
 ---
@@ -43,10 +42,11 @@
 我的微信公众号：**JavaPub** ，可以回复 1024 ，获取常用资源包。
 
 
+
+<!--
 ## 我的故事
-
-
 [如果对我的故事感兴趣，可以点击这里!](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2447168057551683586#wechat_redirect)
+-->
 
 
 
