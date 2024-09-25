@@ -59,9 +59,9 @@
 
 我总是对探索新技术和合作开展有趣的项目感到兴奋。如果您想联系或合作，请随时联系我：
 
-- [WeChat](https://kazjsfecs3y.feishu.cn/wiki/BRMxwzLpgizi62k20fwcCzPHn1e)
+- [🌍WeChat](https://kazjsfecs3y.feishu.cn/wiki/BRMxwzLpgizi62k20fwcCzPHn1e)
 
-- [Send me email](mailto:iswangshiyu@foxmail.com)
+- [📮Send me email](mailto:iswangshiyu@foxmail.com)
 
 
 
