@@ -59,7 +59,7 @@
 ## 独立开发项目
 
 - [微信 MarkDown 编辑器](http://md.javapub.net.cn/) | [http://md.javapub.net.cn/](http://md.javapub.net.cn/)
-- [编程鸭-面试微信小程序]()
+- [编程鸭-面试微信小程序](images/WechatIMG404.jpg)
 
 
 
