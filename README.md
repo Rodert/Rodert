@@ -1,85 +1,58 @@
-### Hi there 👋 I'm Rodert (JavaPub)
+# Rodert / JavaPub
 
 <div align="center">
 
-**🌍 Open source is a spirit | 致力于帮助每个朋友学会编程、学好编程**
+**开源是一种精神，致力于帮助每个朋友学会编程、学好编程。**
 
-[![Website](https://img.shields.io/badge/Website-javapub.net.cn-blue?style=for-the-badge)](http://javapub.net.cn/)
-[![GitHub followers](https://img.shields.io/github/followers/Rodert?label=Followers&style=social)](https://github.com/Rodert)
-[![GitHub stars](https://img.shields.io/github/stars/Rodert?label=Stars&style=social)](https://github.com/Rodert)
+[![个人网站](https://img.shields.io/badge/个人网站-javapub.net.cn-0969da?style=for-the-badge)](https://javapub.net.cn/)
+[![GitHub 关注者](https://img.shields.io/github/followers/Rodert?label=关注者&style=social)](https://github.com/Rodert)
 
 </div>
 
----
+## 关于我
 
-## 👨‍💻 About Me
+- 技术内容创作者，专注于 Java、面试、编程学习和 AI 工具
+- 持续创作原创技术内容，全平台累计阅读量数百万
+- 开源项目维护者，希望用内容和工具帮助开发者成长
+- 坐标：北京
 
-- 🎯 **技术自媒体创作者** | 专注于 Java、面试、编程学习、AI 工具
-- 📝 **原创内容** | 上百篇文章，超 10 万字 | 多平台同步更新
-- 🚀 **开源贡献者** | 136+ 仓库，致力于帮助开发者成长
-- 📍 **Location** | China Beijing
+## 代表项目
 
-**创作成果**：多平台内容创作者，累计阅读量数百万，获得优秀创作者等多项荣誉
+### [JavaPub](https://github.com/Rodert/JavaPub)
 
----
+面向 Java 开发者的学习与面试知识库，包含上百篇原创文章，并计划持续维护至 2050 年。
 
-## 📊 GitHub Stats
+[![JavaPub Stars](https://img.shields.io/github/stars/Rodert/JavaPub?style=social)](https://github.com/Rodert/JavaPub)
+[![JavaPub Forks](https://img.shields.io/github/forks/Rodert/JavaPub?style=social)](https://github.com/Rodert/JavaPub/fork)
+[![访问官网](https://img.shields.io/badge/访问官网-javapub.net.cn-2ea44f)](https://javapub.net.cn/)
+
+## 独立作品
+
+- [微信 Markdown 编辑器](https://md.javapub.net.cn/)：在线将 Markdown 转换为适合微信公众号的格式
+- [编程鸭面试小程序](images/WechatIMG404.jpg)：面试题库小程序，[查看小程序码](images/WechatIMG404.jpg)
+- [JSON 格式化工具](https://rodert.github.io/jsonformat/)：在线格式化和查看 JSON 数据
+
+## 近期关注
+
+AI 编程与工具实践、Web3、技术人成长，以及独立开发与技术价值转化。
+
+## GitHub 动态
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodert&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodert&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Rodert&theme=radical&hide_border=true&fire=DD2727&ring=DD2727)
+<img alt="Rodert 的 GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=Rodert&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent&locale=cn" />
 
 </div>
 
----
-
-## ⭐ Featured Project
-
-### [JavaPub](https://github.com/Rodert/JavaPub) ⭐ 171 | 🍴 29
-
-> 致力于帮助每个朋友学会编程、学好编程
-
-- 📚 上百篇文章，超 10 万字 | 🌐 [官方网站](http://javapub.net.cn/) | 📅 计划运营到 2050 年
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Rodert/JavaPub?style=social)
-![Forks](https://img.shields.io/github/forks/Rodert/JavaPub?style=social)
-
-### 🛠️ Independent Projects
-
-- **[微信 MarkDown 编辑器](http://md.javapub.net.cn/)** - 在线 Markdown 转微信格式工具
-- **[编程鸭-面试微信小程序](images/WechatIMG404.jpg)** - 面试题库小程序
-- **[Json字符串格式化](https://rodert.github.io/jsonformat/)** - 在线 JSON 格式化工具
-
----
-
-## 🚀 Future Focus
+## 联系我
 
 <div align="center">
 
-🤖 **AI & AI编程** | 🌐 **Web3** | 📈 **个人成长** | 💰 **技术价值变现**
-
-</div>
-
-- 🤖 **AI & AI编程**：探索 AI 工具在编程中的应用，分享 AI 编程实践和工具测评
-- 🌐 **Web3**：关注区块链、去中心化应用等 Web3 技术趋势
-- 📈 **个人成长**：分享技术人的成长路径、学习方法、职业规划
-- 💰 **技术价值变现**：探索如何将技术能力转化为价值，包括副业、独立开发等
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![微信公众号](https://img.shields.io/badge/微信公众号-JavaPub-red?style=flat-square&logo=wechat)](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA)
-[![知乎](https://img.shields.io/badge/知乎-Rodert-blue?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/zhui-ma-7-49)
-[![掘金](https://img.shields.io/badge/掘金-JavaPub-yellow?style=flat-square)](https://juejin.cn/user/958429872260328)
-[![GitHub](https://img.shields.io/badge/GitHub-Rodert-black?style=flat-square&logo=github)](https://github.com/Rodert/)
-[![Email](https://img.shields.io/badge/Email-iswangshiyu@foxmail.com-blue?style=flat-square&logo=gmail)](mailto:iswangshiyu@foxmail.com)
+[![微信公众号](https://img.shields.io/badge/微信公众号-JavaPub-07c160?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA)
+[![知乎](https://img.shields.io/badge/知乎-Rodert-056de8?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhui-ma-7-49)
+[![掘金](https://img.shields.io/badge/掘金-JavaPub-1e80ff?style=flat-square)](https://juejin.cn/user/958429872260328)
+[![GitHub](https://img.shields.io/badge/GitHub-Rodert-181717?style=flat-square&logo=github)](https://github.com/Rodert)
+[![邮箱](https://img.shields.io/badge/邮箱-iswangshiyu%40foxmail.com-0969da?style=flat-square)](mailto:iswangshiyu@foxmail.com)
 
 </div>
 
@@ -87,10 +60,8 @@
 
 <div align="center">
 
-**⭐️ If you like my work, consider giving a star to [JavaPub](https://github.com/Rodert/JavaPub) ⭐️**
+如果这些内容对你有帮助，欢迎关注 [JavaPub](https://github.com/Rodert/JavaPub)。
 
-Made with ❤️ by [Rodert](https://github.com/Rodert) | Since 2018
-
-![Visitor Count](https://profile-counter.glitch.me/Rodert/count.svg)
+Made with love by [Rodert](https://github.com/Rodert) · Since 2018
 
 </div>
