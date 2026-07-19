@@ -53,7 +53,7 @@ Practical AI tools for developers, AI-assisted programming, Web3, developer grow
 <div align="center">
 
 [![WeChat Official Account](https://img.shields.io/badge/WeChat-JavaPub-07c160?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA)
-[![Zhihu](https://img.shields.io/badge/Zhihu-Rodert-056de8?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhui-ma-7-49)
+[![Zhihu](https://img.shields.io/badge/Zhihu-Rodert-056de8?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/javapub)
 [![Juejin](https://img.shields.io/badge/Juejin-JavaPub-1e80ff?style=flat-square)](https://juejin.cn/user/958429872260328)
 [![GitHub](https://img.shields.io/badge/GitHub-Rodert-181717?style=flat-square&logo=github)](https://github.com/Rodert)
 [![Email](https://img.shields.io/badge/Email-iswangshiyu%40foxmail.com-0969da?style=flat-square)](mailto:iswangshiyu@foxmail.com)
