@@ -11,36 +11,42 @@
 
 </div>
 
-## About
+## 关于 / About
 
-- Creator and maintainer of open-source learning content and developer tools
-- Focused on Java, technical interviews, programming education, and AI-assisted development
-- Original technical content with millions of reads across publishing platforms
-- Based in Beijing, China
+- 开源学习内容与开发者工具的创作者和维护者。<br>
+  Creator and maintainer of open-source learning content and developer tools.
+- 专注于 Java、技术面试、编程教育与 AI 辅助开发。<br>
+  Focused on Java, technical interviews, programming education, and AI-assisted development.
+- 在多个内容平台累计获得数百万阅读。<br>
+  Original technical content with millions of reads across publishing platforms.
+- 坐标中国北京。<br>
+  Based in Beijing, China.
 
-## Featured Project
+## 重点项目 / Featured Project
 
 ### [JavaPub](https://github.com/Rodert/JavaPub)
 
-An open-source Java learning and interview knowledge base with 100+ original articles. It is built primarily for Chinese-speaking developers and will be maintained for the long term.
-
-面向中文开发者的 Java 学习与面试知识库。
+面向中文开发者的 Java 学习与面试知识库，已整理 100+ 篇原创文章，并将持续维护。<br>
+An open-source Java learning and interview knowledge base with 100+ original articles, built primarily for Chinese-speaking developers and maintained for the long term.
 
 [![JavaPub Stars](https://img.shields.io/github/stars/Rodert/JavaPub?style=social)](https://github.com/Rodert/JavaPub)
 [![JavaPub Forks](https://img.shields.io/github/forks/Rodert/JavaPub?style=social)](https://github.com/Rodert/JavaPub/fork)
 [![Visit website](https://img.shields.io/badge/Visit_website-javapub.net.cn-2ea44f)](https://javapub.net.cn/)
 
-## Projects
+## 项目 / Projects
 
-- [WeChat Markdown Editor](https://md.javapub.net.cn/): Convert Markdown into formatting ready for WeChat Official Accounts.
-- [Interview Mini Program](images/WechatIMG404.jpg): A Chinese interview question bank for WeChat Mini Program users. [View QR code](images/WechatIMG404.jpg)
-- [JSON Formatter](https://rodert.github.io/jsonformat/): Format and inspect JSON data online.
+- [微信公众号 Markdown 编辑器 / WeChat Markdown Editor](https://md.javapub.net.cn/)：将 Markdown 转换为适合微信公众号发布的排版内容。<br>
+  Convert Markdown into formatting ready for WeChat Official Accounts.
+- [面试小程序 / Interview Mini Program](images/WechatIMG404.jpg)：面向中文用户的微信小程序面试题库。[查看二维码 / View QR code](images/WechatIMG404.jpg)
+- [JSON 格式化工具 / JSON Formatter](https://rodert.github.io/jsonformat/)：在线格式化和检查 JSON 数据。<br>
+  Format and inspect JSON data online.
 
-## Current Focus
+## 当前方向 / Current Focus
 
+面向开发者的实用 AI 工具、AI 辅助编程、Web3、开发者成长与独立产品建设。<br>
 Practical AI tools for developers, AI-assisted programming, Web3, developer growth, and independent product building.
 
-## GitHub Activity
+## GitHub 公开项目统计 / GitHub Public Project Stats
 
 <div align="center">
 
@@ -48,7 +54,7 @@ Practical AI tools for developers, AI-assisted programming, Web3, developer grow
 
 </div>
 
-## Connect
+## 联系我 / Connect
 
 <div align="center">
 
@@ -69,8 +75,10 @@ Practical AI tools for developers, AI-assisted programming, Web3, developer grow
 
 <div align="center">
 
+如果这些内容对你有帮助，欢迎关注 [JavaPub](https://github.com/Rodert/JavaPub)。<br>
 If these resources help you, consider following [JavaPub](https://github.com/Rodert/JavaPub).
 
+[Rodert](https://github.com/Rodert) 用心制作 · 始于 2018 年<br>
 Made with love by [Rodert](https://github.com/Rodert) · Since 2018
 
 </div>
