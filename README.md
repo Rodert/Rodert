@@ -56,6 +56,11 @@ Practical AI tools for developers, AI-assisted programming, Web3, developer grow
 [![Zhihu](https://img.shields.io/badge/Zhihu-Rodert-056de8?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/javapub)
 [![Juejin](https://img.shields.io/badge/Juejin-JavaPub-1e80ff?style=flat-square)](https://juejin.cn/user/958429872260328)
 [![GitHub](https://img.shields.io/badge/GitHub-Rodert-181717?style=flat-square&logo=github)](https://github.com/Rodert)
+[![Gitee](https://img.shields.io/badge/Gitee-Rodert-c71d23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/rodert)
+[![YouTube](https://img.shields.io/badge/YouTube-JavaPub-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@javapubnetcn)
+[![CSDN](https://img.shields.io/badge/CSDN-JavaPub-fc5531?style=flat-square)](https://blog.csdn.net/qq_40374604)
+[![Cnblogs](https://img.shields.io/badge/Cnblogs-JavaPub-2b9ac9?style=flat-square)](https://www.cnblogs.com/JavaPub)
+[![Bilibili](https://img.shields.io/badge/Bilibili-JavaPub-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/404747369)
 [![Email](https://img.shields.io/badge/Email-iswangshiyu%40foxmail.com-0969da?style=flat-square)](mailto:iswangshiyu@foxmail.com)
 
 </div>
