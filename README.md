@@ -82,3 +82,9 @@ If these resources help you, consider following [JavaPub](https://github.com/Rod
 Made with love by [Rodert](https://github.com/Rodert) · Since 2018
 
 </div>
+
+## 关于作者 / About the Author
+
+<p align="center">
+  <img src="images/rodert.jpg" alt="Rodert" width="320" />
+</p>
