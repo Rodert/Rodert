@@ -2,9 +2,15 @@
 
 <div align="center">
 
-**Open-source creator focused on Java, developer education, interviews, and practical AI tools.**
+### 🚀 ALL IN AI
 
-开源技术创作者，专注于 Java、开发者成长、面试与 AI 工具实践。
+**Developer · Builder · Open Source · Creator · AI · Indie Hacker**
+
+**From Java to AI. Building software, open-source projects and practical AI products.**
+
+Java / Go / Python / Node.js · Web · WeChat Mini Program · macOS · AI
+
+**全网 25 万+ 开发者关注 · 250K+ Followers Across Platforms**
 
 [![Website](https://img.shields.io/badge/Website-javapub.net.cn-0969da?style=for-the-badge)](https://javapub.net.cn/)
 [![GitHub followers](https://img.shields.io/github/followers/Rodert?label=Followers&style=social)](https://github.com/Rodert)
@@ -13,12 +19,16 @@
 
 ## 关于 / About
 
-- 开源学习内容与开发者工具的创作者和维护者。<br>
-  Creator and maintainer of open-source learning content and developer tools.
-- 专注于 Java、技术面试、编程教育与 AI 辅助开发。<br>
-  Focused on Java, technical interviews, programming education, and AI-assisted development.
-- 在多个内容平台累计获得数百万阅读。<br>
-  Original technical content with millions of reads across publishing platforms.
+- 软件开发者、开源作者与技术内容创作者，全网累计 25 万+ 关注者。<br>
+  Software developer, open-source creator, and tech content creator with 250K+ followers across platforms.
+- 长期参与真实软件产品开发，覆盖 Web、微信小程序、macOS 应用、后端服务与开发者工具。<br>
+  Experienced in building real-world products across Web, WeChat Mini Programs, macOS apps, backend services, and developer tools.
+- 使用过 Java、Go、Python、Node.js 等技术栈进行产品与工程实践。<br>
+  Building products with Java, Go, Python, Node.js, and related technologies.
+- JavaPub 是我长期维护的开源技术品牌和代表项目之一，持续分享开发、面试与开发者成长相关内容。<br>
+  JavaPub is one of my long-running open-source projects and technical brands.
+- 当前正在 **ALL IN AI**，重点关注 AI Coding、Agent、MCP、AI Infrastructure 与 AI 产品建设。<br>
+  Currently **ALL IN AI**, focusing on AI Coding, Agents, MCP, AI infrastructure, and AI product development.
 - 坐标中国北京。<br>
   Based in Beijing, China.
 
@@ -41,10 +51,24 @@ An open-source Java learning and interview knowledge base with 100+ original art
 - [JSON 格式化工具 / JSON Formatter](https://rodert.github.io/jsonformat/)：在线格式化和检查 JSON 数据。<br>
   Format and inspect JSON data online.
 
-## 当前方向 / Current Focus
+## 🚀 ALL IN AI
 
-面向开发者的实用 AI 工具、AI 辅助编程、Web3、开发者成长与独立产品建设。<br>
-Practical AI tools for developers, AI-assisted programming, Web3, developer growth, and independent product building.
+过去几年，我写过 Java，做过 Go、Python、Node.js 后端，开发过网站、微信小程序、macOS 应用和各种开发者工具。
+
+现在，我正在把更多精力投入 AI。
+
+Currently exploring and building around:
+
+- 🤖 **AI Coding** — Codex、Claude Code、Agentic Coding
+- 🧠 **AI Agent** — Agent、MCP、Skills、自动化工作流
+- ⚙️ **AI Infrastructure** — LLM API、模型网关、推理服务与 AI Backend
+- 🛠️ **Developer Tools** — 面向开发者的效率工具与开源项目
+- 🚀 **AI Products** — 从技术 Demo 到真正可以被用户使用的 AI 产品
+- 🌐 **Independent Products** — Web、macOS、小程序与独立产品实践
+
+> **Java was the beginning. AI is the next chapter.**
+>
+> 从 Java 出发，ALL IN AI。
 
 ## GitHub 公开项目统计 / GitHub Public Project Stats
 
