@@ -4,11 +4,11 @@
 
 ### 🚀 ALL IN AI
 
-**Developer · Builder · Open Source · Creator · AI · Indie Hacker**
+**Developer · Open Source · AI · Web3 · Build & Monetize · Going Global**
 
-**From Java to AI. Building software, open-source projects and practical AI products.**
+**Building with AI, Web3 and open source. Turning technology into products, and products into value.**
 
-Java / Go / Python / Node.js · Web · WeChat Mini Program · macOS · AI
+**从技术出发，创造产品，也创造价值。**
 
 **全网 25 万+ 开发者关注 · 250K+ Followers Across Platforms**
 
@@ -21,14 +21,12 @@ Java / Go / Python / Node.js · Web · WeChat Mini Program · macOS · AI
 
 - 软件开发者、开源作者与技术内容创作者，全网累计 25 万+ 关注者。<br>
   Software developer, open-source creator, and tech content creator with 250K+ followers across platforms.
-- 长期参与真实软件产品开发，覆盖 Web、微信小程序、macOS 应用、后端服务与开发者工具。<br>
-  Experienced in building real-world products across Web, WeChat Mini Programs, macOS apps, backend services, and developer tools.
-- 使用过 Java、Go、Python、Node.js 等技术栈进行产品与工程实践。<br>
-  Building products with Java, Go, Python, Node.js, and related technologies.
+- 持续参与软件产品、开发者工具与开源项目建设，拥有从后端服务、Web、小程序到 macOS 应用的跨端开发实践，并长期探索技术如何真正转化为产品与商业价值。<br>
+  Building software products, developer tools, and open-source projects across backend services, Web, Mini Programs, and macOS, while exploring how technology becomes sustainable product and business value.
 - JavaPub 是我长期维护的开源技术品牌和代表项目之一，持续分享开发、面试与开发者成长相关内容。<br>
   JavaPub is one of my long-running open-source projects and technical brands.
-- 当前正在 **ALL IN AI**，重点关注 AI Coding、Agent、MCP、AI Infrastructure 与 AI 产品建设。<br>
-  Currently **ALL IN AI**, focusing on AI Coding, Agents, MCP, AI infrastructure, and AI product development.
+- 当前正在 **ALL IN AI**，并长期关注 Web3、开发者工具、独立产品与全球化产品实践。<br>
+  Currently **ALL IN AI**, with a long-term focus on Web3, developer tools, independent products, and global product building.
 - 坐标中国北京。<br>
   Based in Beijing, China.
 
@@ -51,24 +49,23 @@ An open-source Java learning and interview knowledge base with 100+ original art
 - [JSON 格式化工具 / JSON Formatter](https://rodert.github.io/jsonformat/)：在线格式化和检查 JSON 数据。<br>
   Format and inspect JSON data online.
 
-## 🚀 ALL IN AI
+## 🚀 当前方向 / Current Focus
 
-过去几年，我写过 Java，做过 Go、Python、Node.js 后端，开发过网站、微信小程序、macOS 应用和各种开发者工具。
+当前主要关注 **AI、Web3、开发者工具、独立产品与全球化产品实践**。
 
-现在，我正在把更多精力投入 AI。
+我更感兴趣的，不只是新技术本身，而是如何把技术真正转化为有价值的产品、服务和长期可持续的商业模式。
 
 Currently exploring and building around:
 
-- 🤖 **AI Coding** — Codex、Claude Code、Agentic Coding
-- 🧠 **AI Agent** — Agent、MCP、Skills、自动化工作流
-- ⚙️ **AI Infrastructure** — LLM API、模型网关、推理服务与 AI Backend
-- 🛠️ **Developer Tools** — 面向开发者的效率工具与开源项目
-- 🚀 **AI Products** — 从技术 Demo 到真正可以被用户使用的 AI 产品
-- 🌐 **Independent Products** — Web、macOS、小程序与独立产品实践
+- 🤖 **AI** — AI Coding、Agent、MCP、AI Infrastructure 与 AI 产品
+- ⛓️ **Web3** — 区块链基础设施、支付、稳定币与链上应用
+- 🛠️ **Developer Tools** — 开发者效率工具、开源项目与工程基础设施
+- 💡 **Build & Monetize** — 探索技术产品化、商业化与开发者价值变现
+- 🌐 **Going Global** — 面向全球用户构建和推广产品，持续探索产品出海
 
-> **Java was the beginning. AI is the next chapter.**
+> **From code to product. From product to value.**
 >
-> 从 Java 出发，ALL IN AI。
+> 从技术出发，创造产品，也创造价值。
 
 ## GitHub 公开项目统计 / GitHub Public Project Stats
 
