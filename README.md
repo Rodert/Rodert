@@ -83,6 +83,7 @@ Currently exploring and building around:
 [![Zhihu](https://img.shields.io/badge/Zhihu-Rodert-056de8?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/javapub)
 [![Juejin](https://img.shields.io/badge/Juejin-JavaPub-1e80ff?style=flat-square)](https://juejin.cn/user/958429872260328)
 [![GitHub](https://img.shields.io/badge/GitHub-Rodert-181717?style=flat-square&logo=github)](https://github.com/Rodert)
+[![X](https://img.shields.io/badge/X-wangshiyu2046-000000?style=flat-square&logo=x)](https://x.com/wangshiyu2046)
 [![Gitee](https://img.shields.io/badge/Gitee-Rodert-c71d23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/rodert)
 [![YouTube](https://img.shields.io/badge/YouTube-JavaPub-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@javapubnetcn)
 [![CSDN](https://img.shields.io/badge/CSDN-JavaPub-fc5531?style=flat-square)](https://blog.csdn.net/qq_40374604)
