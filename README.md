@@ -12,6 +12,7 @@
 
 **全网 25 万+ 开发者关注 · 250K+ Followers Across Platforms**
 
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-841-f5b301?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodert?tab=repositories)
 [![Website](https://img.shields.io/badge/Website-javapub.net.cn-0969da?style=for-the-badge)](https://javapub.net.cn/)
 [![GitHub followers](https://img.shields.io/github/followers/Rodert?label=Followers&style=social)](https://github.com/Rodert)
 
